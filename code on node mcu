@@ -30,9 +30,9 @@ WidgetLED ST3(V22);
 WidgetLED ST4(V23);
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "jLWP2HTNC4kcQvNw037DJURV_cvWcJSl";
-char ssid[] = "Redmi";
-char pass[] = "Rohit321";
+char auth[] = "Blynk project code here"
+char ssid[] = "WiFi SSID here";
+char pass[] = "WiFi passwpord here";
 
 void setup()
 {
